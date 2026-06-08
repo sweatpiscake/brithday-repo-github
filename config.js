@@ -55,7 +55,7 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi it's me Iko",
+      title: "Hi it's me Iko Happy birthday to you",
       subtitle: "I really like your name btw and like you! can I wkwkwk",
     },
     {
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!tau engga artinya apa wkwk",
+        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness! semoga apa yang apa yang kamu mau tercapaisatu persatu. Semoga kamu gaperna bosen sama aku",
       buttonText: "Send",
     },
     {

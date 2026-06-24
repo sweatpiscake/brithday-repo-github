@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, do you want to be my girl friend tell me to me if you want cause i will say something.",
+      text: "You are my queen, the oldest daughter of an axceptional man and a very stronge woman, why I fell love with you and why I'm so grateful to be able to spend my life by your side and I promise to fix all the mistakes that make you uncomfortable.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
